@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdx07&label=Profile%20views&color=0e75b6&style=flat" alt="fdx07" /> </p>
 
-- 🔭 I’m currently working on **Algorithm Based Healthy Nutrition**
+- 🔭 I’m currently working on **web development and entreprenuership projects.**
 
-- 🌱 I’m currently learning **Cybersecurity analysis.**
+- 🌱 I’m currently learning **algorithmic programming and web development.**
 
-- 👯 I’m looking to collaborate on **Cybersecurity projects**
+- 👯 I’m looking to collaborate on **cybersecurity and detailed research projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
