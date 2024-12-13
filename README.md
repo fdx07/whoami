@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **cybersecurity and detailed research projects.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="mailto:durbaafaisal+git@gmail.com"> Mail Me</a> | <a href="https://www.linkedin.com/in/faisaldurbaa"> LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
