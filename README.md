@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faisal</h1>
+<h1 align="center">Hi, I'm Faisal</h1>
 <h3 align="center">A young tech-savvy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdx07&label=Profile%20views&color=0e75b6&style=flat" alt="fdx07" /> </p>
